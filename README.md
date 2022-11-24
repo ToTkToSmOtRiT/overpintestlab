@@ -2,7 +2,9 @@
 
 ## Project setup
 ```
-Please, configure file database.php first to access database in Open Server or MAMP. Use file comments.sql to import database.
+Please, configure file database.php first to access database in Open Server or MAMP. 
+
+Use file comments.sql to import database.
 ```
 
 ### Adding comments
